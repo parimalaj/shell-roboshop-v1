@@ -2,8 +2,8 @@
 
 ami_id="ami-0055977a6e828a4f4"
 instance_type="t3.micro"
-domain_name="pari92s.shop"
-hosted_zone_id="Z0312304U7XCSW2ODCCQ"
+domain_name="pari92s.online"
+hosted_zone_id="Z01599202T0Q1KK31JDID"
 
 for instance in $@
 do
